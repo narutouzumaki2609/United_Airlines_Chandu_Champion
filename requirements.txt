@@ -1,0 +1,14 @@
+pdfplumber
+pandas
+matplotlib
+python-dotenv
+openai
+scikit-learn
+tensorflow
+transformers
+tf-keras
+torch
+numpy
+tabulate
+termcolor
+tensorflow-hub
